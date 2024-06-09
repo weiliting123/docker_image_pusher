@@ -1,1 +1,1 @@
---platform arm64 hslr/sun-panel:latest
+hslr/sun-panel:latest
